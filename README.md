@@ -1,4 +1,16 @@
-# postman-library
+# postman-library - ARCHIVE
+
+> [!Caution]
+>
+> This repository is archived and no longer maintained.
+>
+> This code may contain known security vulnerabilities. It no longer receives security patches, dependency updates or technical support.
+> 
+> Do not use this repository for new development or production deployments.
+>
+> Historical reference : This repository remains available for historical reference and migration purposes only. Issues and pull requests are closed, and no further releases 
+> are planned.
+
 
 This is a library of Postman files for the Mauro Data mapper.  Initially, this consists of two files:
 
